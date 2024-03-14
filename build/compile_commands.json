@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/main.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/main.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/main.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/Audio.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/Audio.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/Audio.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/Audio.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/AudioCallback.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/AudioCallback.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/AudioCallback.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/AudioCallback.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/SDLWrapper.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/SDLWrapper.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/SDLWrapper.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/SDLWrapper.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/Utils.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/Utils.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/Utils.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/Utils.cpp.o"
+},
+{
+  "directory": "/Users/aaronher/Desktop/VideoPlayer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.28.5/include -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2 -isystem /opt/homebrew/Cellar/ffmpeg@4/4.4.4_4/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsanitize=address -o CMakeFiles/VideoPlayer.dir/Player.cpp.o -c /Users/aaronher/Desktop/VideoPlayer/Player.cpp",
+  "file": "/Users/aaronher/Desktop/VideoPlayer/Player.cpp",
+  "output": "CMakeFiles/VideoPlayer.dir/Player.cpp.o"
+}
+]

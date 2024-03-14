@@ -1,0 +1,3 @@
+/Users/aaronher/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer.dir
+/Users/aaronher/Desktop/VideoPlayer/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/VideoPlayer/build/CMakeFiles/rebuild_cache.dir
